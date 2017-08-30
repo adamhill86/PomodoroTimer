@@ -1,1 +1,4 @@
 ﻿obj/
+
+!bin/Release/PomodoroTimer.exe
+!bin/Release/PomodoroTimer.pdb
